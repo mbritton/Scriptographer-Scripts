@@ -1,21 +1,23 @@
 
-ExtractGradientToFlash.js
+Scriptographer Scripts for Adobe Illustrator
 By Mike Britton
 http://www.mikebritton.com
 
-This script converts the gradient values in an object's fill
+ExtractGradientToFlash.js
+Converts the gradient values in an object's fill
 to ActionScript and MXML GradientEntries for use in Flash
-and Flex applications.
+and Flex applications
+
+ExtractHexidecimalValue.js
+Extracts RGB values and displays hexidecimal
 
 Installation:
 
 1.  Install Scriptographer:
 http://scriptographer.org/tutorials/getting-started/installation-instructions/
 
-2.  Place ExtractGradientToFlash.js in the folder you've chosen to house your Scriptographer scripts.
+2.  Place scripts in the folder you've chosen to house your Scriptographer scripts.
 
-3.  Select an object in Illustrator containing a gradient you wish to extract.
+3.  Run scripts as needed.
 
-4.  Run ExtractGradientToFlash.
-
-5.  Profit!
+4.  Profit!
